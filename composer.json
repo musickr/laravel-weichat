@@ -1,0 +1,19 @@
+{
+    "name": "musickr/laravel-chat",
+    "description": "weichat lib",
+    "require": {
+        "illuminate/support": "^10.0"
+    },
+    "license": "lib",
+    "autoload": {
+        "psr-4": {
+            "Musickr\\LaravelChat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "musickr"
+        }
+    ],
+    "minimum-stability": "dev"
+}
